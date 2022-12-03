@@ -1,0 +1,8 @@
+body {
+    background: linear-gradient(90deg, pink, wheat);
+}
+
+.img {
+    height: 20%;
+    width: 20%;
+}
